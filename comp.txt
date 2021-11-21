@@ -1,0 +1,5 @@
+1)What is the expansion of RJ-45?
+2)What protocol is used to transfer voice using packet switched network?
+3)What is the protocol used to upload a hypertext document on the internet?
+4)Any computer attached on a network is called a _______
+5)What is the range of frequencies available for data transmission called?
